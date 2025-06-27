@@ -1,5 +1,5 @@
 Similarly to bubble sort selection sort  have a time complexity of  `O(n^2)` as we are using nested loops. However if the data is nearly sorted the time complexity can decrease.
-We place smaller values first and then work up. Its essentially opposite of bubble sort .
+We place smaller values first and then work up. Its essentially opposite of bubble sort  but we only swap once a iteration.
 we swap  the first position with the smallest value and move up.
 example `[5,3,4,1,2]`
 first iteration: `[ 1,3,4,5,2]`
