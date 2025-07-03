@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sorting/Merge sort O (n log n).md",
+                "file": "Recursion/Recursion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Merge sort O (n log n)"
+              "title": "Recursion"
             }
           },
           {
@@ -183,10 +183,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2eb908ffce83b18a",
+  "active": "a8f8aded8e6ee361",
   "lastOpenFiles": [
-    "Sorting/Selection sort.md",
     "Sorting/Merge sort O (n log n).md",
+    "Recursion/Recursion.md",
+    "Recursion",
+    "Sorting/Selection sort.md",
     "Sorting/Insertion sort.md",
     "Sorting/Default JavaScript sorting.md",
     "Sorting/Bubble sort.md",
