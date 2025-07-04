@@ -184,15 +184,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "00fd513ec57772ac",
+  "active": "a8f8aded8e6ee361",
   "lastOpenFiles": [
-    "Sorting/Default JavaScript sorting.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "Sorting/Quick sort.md",
+    "Recursion/Recursion.md",
+    "Recursion",
+    "Sorting/Default JavaScript sorting.md",
     "Sorting/Insertion sort.md",
     "Sorting/Merge sort O (n log n).md",
     "Sorting/Selection sort.md",
-    "Untitled 1.md",
-    "Untitled.md",
     "Sorting/Bubble sort.md",
     "Welcome.md",
     "Sorting"
